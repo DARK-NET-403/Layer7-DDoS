@@ -47,8 +47,8 @@ DARK-NET
 ```bash
 termux-setup-storage
 pkg update -y && pkg upgrade -y
-pkg install python git -y
-pip install requests colorama
+pkg install python git figlet -y
+pip install requests colorama pyfiglet
 git clone https://github.com/DARK-NET-403/Layer7-DDoS
 cd Layer7-DDoS
 unzip ddos.zip
