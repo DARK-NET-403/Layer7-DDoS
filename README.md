@@ -19,19 +19,19 @@
 
 ## ❓ What is Layer7 DDoS Tool?
 
-> **Layer7 DDoS Tool** is a fast, lightweight Python-based tool designed to simulate Layer7 (HTTP flood) attacks.  
+> **Layer7 DDoS Tool** is a ⚡ fast, lightweight Python-based tool designed to simulate Layer7 (HTTP flood) attacks.  
 > It can stress-test web servers using randomized GET/POST requests with multi-threading support.  
-> **This tool is built strictly for educational and ethical testing purposes only.**
+> **This tool is built strictly for educational and ethical testing purposes.**
 
 ---
 
 ## ⚙️ Features
 
-- 🌐 HTTP GET / POST flood support
-- ⚔️ Multi-threading (custom threads)
-- 🧠 Randomized headers & user-agents
-- ⚡ Fast & terminal-based interface
-- ✅ 100% works in Termux on Android
+- 🌐 HTTP GET / POST flood support  
+- ⚔️ Multi-threading (custom threads)  
+- 🧠 Randomized headers & user-agents  
+- ⚡ Fast & terminal-based interface  
+- ✅ 100% works in Termux on Android  
 
 ---
 
@@ -46,51 +46,30 @@ git clone https://github.com/DARK-NET-403/Layer7-DDoS
 cd Layer7-DDoS
 unzip ddos.zip
 chmod +x ddos.bin
-./ddos.bin
+python ddos.py
 ```
 
+---
+
+## ⚠️ Disclaimer
+
+> This tool is for **EDUCATIONAL PURPOSES ONLY**.  
+> ❌ Unauthorized usage against websites without permission is **illegal**.  
+> ⚠️ The developer is **not responsible** for any misuse or damage caused by this tool.
 
 ---
 
-⚠️ Disclaimer
+## 👨‍💻 Author Info
 
-> This tool is for EDUCATIONAL PURPOSES ONLY.
-Unauthorized usage against websites without permission is illegal.
-The developer is not responsible for any misuse or damage caused by this tool.
-
-
-
-
----
-
-
-👨‍💻 Author Info
-
-Platform	**Ariyan Rabbi(Dʌʀĸ-Nɘt)**
-
-Facebook	[Follow](https://www.facebook.com/share/1BS3NxYjiR/)
-
-Telegram	[Join Chat](https://t.me/DARK_NET_403)
-
-Messenger	[Message](https://m.me/DARK.NET.403)
-
-GitHub	[My Tools](https://github.com/DARK-NET-403)
-
-
-
+| Platform     | Link |
+|--------------|------|
+| 🟦 Facebook   | [Follow](https://www.facebook.com/share/1BS3NxYjiR/) |
+| 💬 Telegram   | [Join Chat](https://t.me/DARK_NET_403) |
+| 💭 Messenger  | [Message](https://m.me/DARK.NET.403) |
+| 🐙 GitHub     | [My Tools](https://github.com/DARK-NET-403) |
 
 ---
 
-Thanks for using Layer7 DDoS Tool
+## 🙏 Thanks for using Layer7 DDoS Tool
 
-> Made with passion by Ariyan Rabbi (DARK-NET-403)
-
-
-
----
-
-Let me know if you want to include an actual example command like:
-```bash
-GET https://target.com Rabbi
-```
-or if you need help building the Python script itself.
+> Made with ❤️ & passion by **Ariyan Rabbi (DARK-NET-403)**
