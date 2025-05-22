@@ -53,7 +53,7 @@ git clone https://github.com/DARK-NET-403/Layer7-DDoS
 cd Layer7-DDoS
 unzip ddos.zip
 chmod +x ddos.bin
-python ddos.py
+./ddos.bin
 ```
 
 ---
