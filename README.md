@@ -35,6 +35,13 @@
 
 ---
 
+## Password:🔑
+```
+DARK-NET
+```
+
+---
+
 ## 📦 Installation & Usage (on Termux)
 
 ```bash
